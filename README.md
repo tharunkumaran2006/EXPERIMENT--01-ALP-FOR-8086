@@ -145,8 +145,6 @@ ret
 ![div](https://github.com/user-attachments/assets/a12f3c28-7c95-423d-a3e8-5c7f14168ff8)
 
 ## Programs for Logical  operations
-
-## AND  of 16 bit ALP 
 ```
 
 org 100h
